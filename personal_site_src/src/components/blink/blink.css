@@ -1,0 +1,6 @@
+.blinkCursor{
+    height: 1rem;
+    width: 0.2rem;
+    margin-left: 0.1rem;
+    background-color: grey;
+}

@@ -1,0 +1,29 @@
+.socialmedia_container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.socialmedia_link_spot{
+    width: 35%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: grey;
+    margin-left: 50%;
+    font: outline;
+}
+
+@media only screen and (max-width: 1280px) {
+    .socialmedia_container .socialmedia_link_spot{
+        width: 90%;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        align-items: center;
+        margin-left: 5%;
+        height: 5rem;
+        padding-top: 5%;
+    }
+}
