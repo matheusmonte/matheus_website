@@ -15,6 +15,7 @@ export const SOCIAL_MEDIA = [
     {title : "Twitter", link : "https://twitter.com/mcsmonte"},
     {title : "YouTube", link : "https://youtube.com/matheusmonte"},
     {title : "SpeakerDeck", link : "https://speakerdeck.com/matheusmonte"},
-    {title : "Email", link : "mailto:matheusmonte@protonmail.com"}
+    {title : "Email", link : "mailto:matheusmonte@protonmail.com"},
+    {title : "Blog", link : "https://dev.to/matheusmonte"}
 ]
 
