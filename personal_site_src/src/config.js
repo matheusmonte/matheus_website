@@ -3,8 +3,8 @@ export const PROFILE = {
     text : {
         introduce : "HI, I'm Matheus",
         subintroduce : "Software Person based in Dublin",
-        bio : "I'm current Software Development Engineer at Amazon, previous AWS, Samsung and other nice companies." +
-        "I love to talk about JavaScript stuff, but I code on Java, C# and Python too. Open source lover, I contributed " +
+        bio : "I'm current helping people to get jobs at Indeed as Software Engineer, previous AWS/Amazon, Samsung and other nice companies." +
+        "I love to talk aout JavaScript stuff, but I code on Java and Python too. Curious, Want to understand everything and Open source lover, I contributed " +
         "to some interesting projects, check on my github for more details. I believe in a better world could be builded now."
     }
 };
